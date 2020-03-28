@@ -22,51 +22,54 @@ Implementem os métodos numéricos:
     Pesquisa de outro método.
 
 1ª Parte da atividade: [até 15 de abril]
-Com base nos ficheiros da pasta de suporte a esta atividade e/ou outros 
-implementados nas aulas, implementar e acrescentar os métodos anteriores 
-e ajustar a interface de texto para esta atividade com validação dos parâmetros
-de entrada.
 
-*->JÁ DISPONÍVEL NESTE REPOSITÓRIO!
+    Com base nos ficheiros da pasta de suporte a esta atividade e/ou outros 
+    implementados nas aulas, implementar e acrescentar os métodos anteriores 
+    e ajustar a interface de texto para esta atividade com validação dos parâmetros
+    de entrada.
+
+->JÁ DISPONÍVEL NESTE REPOSITÓRIO!
+
 -------------------------//-------------------------//--------------------------
 
 
 2ª Parte da atividade: [até 30 de abril]
-Implementar interfaces gráficas GUI com o utilizador.
-» Na sub-pasta at01_MN_PVI_GUI, encontram um esquiço para implementação de uma GUI com radio buttons e outros objetos que será construída nas próximas aulas Práticas a distância.
+
+    Implementar interfaces gráficas GUI com o utilizador.
 
 -------------------------//-------------------------//--------------------------
 
 3ª Parte da atividade: [até 30 de abril]
-Elaboração de um relatório que aborde pelo menos os seguintes pontos:
 
-1. Introdução
-1.1 Enunciado da actividade proposta e interpretação do mesmo
-1.2 Definição de PVI
+    Elaboração de um relatório que aborde pelo menos os seguintes pontos:
 
-2. Métodos Numéricos para resolução de PVI
-2.1 Método de Euler
-2.1.1 Fórmulas
-2.1.2 Algoritmo/Função
-2.2 Método de Euler Melhorado ou Modificado
-2.2.1 Fórmulas
-2.1.2 Algoritmo/Função
-2.3 Método de RK2
-2.3.1 Fórmulas
-2.3.2 Algoritmo/Função
-2.4 Método de RK4
-2.4.1 Fórmulas
-2.4.2 Algoritmo/Função
-2.5 Função ODE45 do Matlab
+    1. Introdução
+     1.1 Enunciado da actividade proposta e interpretação do mesmo
+     1.2 Definição de PVI
 
-3. Exemplos de aplicação e teste dos métodos
-3.1 Exercício 4 do um teste A de 2015/2016
-3.1.1 PVI - Equação Diferencial de 1ª ordem e Condições Iniciais
-3.2.2 Exemplos de output - GUI com gráfico e tabela 
-3.2 Problema de aplicação » https://moodle.isec.pt/moodle/mod/page/view.php?id=125256
-3.2.1 Modelação matemática do problema
-3.2.2 Resolução através da aplicação criada
+    2. Métodos Numéricos para resolução de PVI
+     2.1 Método de Euler
+     2.1.1 Fórmulas
+     2.1.2 Algoritmo/Função
+     2.2 Método de Euler Melhorado ou Modificado
+     2.2.1 Fórmulas
+     2.1.2 Algoritmo/Função
+     2.3 Método de RK2
+     2.3.1 Fórmulas
+     2.3.2 Algoritmo/Função
+     2.4 Método de RK4
+     2.4.1 Fórmulas
+     2.4.2 Algoritmo/Função
+     2.5 Função ODE45 do Matlab
 
-4. Conclusão
+    3. Exemplos de aplicação e teste dos métodos
+     3.1 Exercício 4 do um teste A de 2015/2016
+     3.1.1 PVI - Equação Diferencial de 1ª ordem e Condições Iniciais
+     3.2.2 Exemplos de output - GUI com gráfico e tabela 
+     3.2 Problema de aplicação » https://moodle.isec.pt/moodle/mod/page/view.php?id=125256
+     3.2.1 Modelação matemática do problema
+     3.2.2 Resolução através da aplicação criada
+
+    4. Conclusão
 
 
